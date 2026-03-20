@@ -1,0 +1,974 @@
+{
+	"config": {
+		"colors": {
+			"background": "#46b4e9",
+			"text": "#fff"
+		},
+		"indicator": true,
+		"pagination": false,
+		"pageNumbers": true,
+		"enableCustomCSS": false,
+		"hasAnswerFeedback": true,
+		"disableInteractionSummary": true,
+		"disableLessonScore": false,
+		"minimumScore": 0,
+		"hasScormExitButton": false,
+		"preventLogoutOnExit": false,
+		"customCSS": "",
+		"background": "fit_content_assets/course.config.background-1539250844702.png",
+		"logo": "fit_content_assets/course.config.logo-1539235369869.png",
+		"direction": "ltr",
+		"incompleteOnFail": false
+	},
+	"isAudio": true,
+	"isOnline": true,
+	"slides": [
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ImageGallerySlideDataDocument",
+			"id": "768aa5fb-4f2c-bdfd-38d3-f33962af21f4",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "image-gallery",
+			"subtype": null,
+			"name": 0,
+			"displayIndex": 1,
+			"templateName": "Image Gallery",
+			"templateDescription": "Swipe through a gallery of images",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": null,
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"prompt": "Swipe to learn more",
+				"background": "",
+				"lightbox": false,
+				"images": [
+					{
+						"image": "fit_content_assets/image-gallery.images%5B0%5D.image-1539239544541.jpeg",
+						"caption": "# **Airport Security** <br>\nThe TSA has a long list of things you can't bring onto a commercial flight. This includes thing like scissors, cigarette lighters, car airbags, and even pool cues. \n\nAnd of course, guns, knives, bombs, and other weapons.\n"
+					},
+					{
+						"image": "fit_content_assets/image-gallery.images%5B1%5D.image-1539239538646.jpeg",
+						"caption": "# **Safety** <br>\nIts better to be safe than sorry. If something looks suspicious or raises an alarm during the screening process, pass it through the X-ray machine again and alert your supervisor."
+					},
+					{
+						"image": "fit_content_assets/image-gallery.images%5B2%5D.image-1539239514041.png",
+						"caption": "# **Prohibited items** <br>\nIn this lesson, we will go over some items that belong in the following categories ---  **sharp objects** and **liquids**"
+					}
+				]
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ImageCollectionSlideDataDocument",
+			"id": "586e7ee2-d139-f26c-a3ae-e713cc526209",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "image-collection",
+			"subtype": null,
+			"name": 1,
+			"displayIndex": 2,
+			"templateName": "Image Collection",
+			"templateDescription": "Select an image to see more detail",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Which of these sharp objects can be taken on the plane?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"prompt": "Select each image for more details",
+				"background": "",
+				"lightbox": false,
+				"images": [
+					{
+						"content": "# **Knitting Needles** <br>\n## **Carry On Bags: Yes**  <br>\n## **Checked Bags: Yes**  <br>\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n",
+						"image": "fit_content_assets/7844dcec-94eb-1bde-2e6d-d4803820a140.jpg",
+						"narration": null
+					},
+					{
+						"content": "# **Darts** <br>\n## **Carry On Bags: No**  <br>\n## **Checked Bags: Yes**  <br>\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n",
+						"image": "fit_content_assets/e892c44e-f311-c53c-5f78-c5712ca91e87.jpg",
+						"narration": null
+					},
+					{
+						"content": "# **Knives** <br>\n## **Carry On Bags: No**  <br>\n## **Checked Bags: Yes**  <br>\n\nExcept for plastic or round bladed butter knives.\n\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n",
+						"image": "fit_content_assets/176171b6-fdf2-86e5-82fc-c6a26d3ee6e5.jpg",
+						"narration": null
+					}
+				]
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ComparisonSlideDataDocument",
+			"id": "87ab2500-e740-df24-beb7-1e5d506970b7",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "comparison",
+			"subtype": null,
+			"name": 2,
+			"displayIndex": 3,
+			"templateName": "Comparison",
+			"templateDescription": "Juxtapose two items in a slider",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Can you identify the contraband in this x-ray scan?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"before": {
+					"contentType": "image",
+					"content": "fit_content_assets/comparison.before.content-1539230150715.jpeg",
+					"label": "Drag the slider across the reveal the contraband\n\n"
+				},
+				"after": {
+					"contentType": "image",
+					"content": "fit_content_assets/comparison.after.content-1539230779949.jpeg",
+					"label": "Along with **\"cutting and thrusting weapons\"** the TSA bans **pocket knives**\n"
+				},
+				"startPosition": "Before - Start with the first section visible",
+				"prompt": "Drag to reveal the answer"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.GameElevatorSlideDataDocument",
+			"id": "a39c3aee-6ca6-528a-d399-f449226f69a5",
+			"metadata": {
+				"questions": [
+					{
+						"question": {
+							"category": "Can these objects be taken on a plane?",
+							"content": "Darts",
+							"id": "ab9b1fb4-d3c8-4a78-89cd-2742e05c3508",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "Checked baggage only",
+								"correct": true,
+								"id": "862c9c94-a55a-41d3-abee-2cc9fb248946",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Carry on only",
+								"correct": false,
+								"id": "88b2ad8d-3776-4126-b332-824d932e74f3",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Both carry on & checked baggage",
+								"correct": false,
+								"id": "5548193c-421f-4624-8808-85503a5c5c1d",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Prohibited item --- must be collected by airport security",
+								"correct": false,
+								"id": "9f964254-faae-4808-9aa9-7ac448c65768",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					},
+					{
+						"question": {
+							"category": "Can these objects be taken on a plane?",
+							"content": "Knitting needles",
+							"id": "214e47a6-300d-4259-89f5-1c1b23506b0e",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "Both carry on & checked baggage",
+								"correct": true,
+								"id": "8e98f3e3-fa58-4a66-8931-7e91cd1a49cb",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Carry on only",
+								"correct": false,
+								"id": "aa77f7be-95d3-4834-b35b-0d6cc1b17932",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Checked baggage only",
+								"correct": false,
+								"id": "8e1fb93f-eb23-4820-822d-2eaa220552e5",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Prohibited item --- must not pass security",
+								"correct": false,
+								"id": "e8be7e65-bbeb-42ce-82ad-7a2bd4c957db",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					},
+					{
+						"question": {
+							"category": "Can these objects be taken on a plane?",
+							"content": "Knife",
+							"id": "a882f06a-5dc6-4c0e-b6da-7cfe68f28819",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "Checked baggage only",
+								"correct": true,
+								"id": "f8d26d7d-adce-40ce-a17a-6920b477f14b",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Carry on only",
+								"correct": false,
+								"id": "7ab4eeae-4140-4865-ba31-d6820bf7ec38",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Both carry on & checked baggage",
+								"correct": false,
+								"id": "682e2a61-aa44-4f8c-9942-d6afd5bc4536",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Prohibited item --- must not pass security",
+								"correct": false,
+								"id": "096bf1af-72d4-43f6-8d3a-64a364f6afab",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					}
+				],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "game-elevator",
+			"subtype": null,
+			"name": 3,
+			"displayIndex": 4,
+			"templateName": "The Elevator Game",
+			"templateDescription": null,
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": {
+					"nb_stars": null,
+					"weighting": 1
+				},
+				"socialLearning": null,
+				"narration": null,
+				"social_learning": {
+					"enabled": false
+				},
+				"combine": false,
+				"title": "Can these objects be taken on a plane?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"game": {
+					"timer": {
+						"limit": 10000,
+						"isDisabled": null,
+						"out-of-time-prompt": null
+					},
+					"stars": {
+						"max": 10000,
+						"min": 1000
+					}
+				},
+				"prompt": "Select the matching attributes",
+				"description": "Can you identify the objects that can and can't go through the security check. Tap on the fact when the product is directly over the fact for the most points.\n\nYou have 10 seconds to earn up to 3 stars!\n",
+				"combined": null,
+				"images": [
+					{
+						"title": "Darts",
+						"image": "fit_content_assets/31d088f9-92c2-e4ad-530c-80fd5e123e48.jpg",
+						"correct": [
+							"Checked baggage only"
+						],
+						"incorrect": [
+							"Carry on only",
+							"Both carry on & checked baggage",
+							"Prohibited item --- must be collected by airport security"
+						],
+						"description": "# **Darts** <br>\n## **Carry On Bags: No**  <br>\n## **Checked Bags: Yes**  <br>\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n"
+					},
+					{
+						"title": "Knitting needles",
+						"image": "fit_content_assets/8da2bfa0-0228-ca50-2343-b1619633999d.jpg",
+						"correct": [
+							"Both carry on & checked baggage"
+						],
+						"incorrect": [
+							"Carry on only",
+							"Checked baggage only",
+							"Prohibited item --- must not pass security"
+						],
+						"description": "# **Knitting Needles** <br>\n## **Carry On Bags: Yes**  <br>\n## **Checked Bags: Yes**  <br>\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n"
+					},
+					{
+						"title": "Knife",
+						"image": "fit_content_assets/9dc401f7-8859-2f9f-a8f6-c600a30a2801.jpg",
+						"correct": [
+							"Checked baggage only"
+						],
+						"incorrect": [
+							"Carry on only",
+							"Both carry on & checked baggage",
+							"Prohibited item --- must not pass security"
+						],
+						"description": "# **Knives** <br>\n## **Carry On Bags: No**  <br>\n## **Checked Bags: Yes**  <br>\n\nExcept for plastic or round bladed butter knives.\n\nAny sharp objects in checked bags should be sheathed or securely wrapped to prevent injury to baggage handlers and inspectors.\n"
+					}
+				]
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ScratchToRevealSlideDataDocument",
+			"id": "29dbbcdb-0386-6334-16de-414e2d59d9a1",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "scratch-to-reveal",
+			"subtype": null,
+			"name": 4,
+			"displayIndex": 5,
+			"templateName": "Scratch to Reveal",
+			"templateDescription": null,
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Can you identify the contraband in this x-ray scan?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"before": {
+					"label": "This one is a little trickier to spot. What is the potentially dangerous object in this suit case?",
+					"content": "fit_content_assets/scratch-to-reveal.before.content-1539230337559.jpeg",
+					"contentType": null
+				},
+				"after": {
+					"label": "**Aerosol cans** of hairspray are not allowed\n",
+					"content": "fit_content_assets/scratch-to-reveal.after.content-1539230342310.jpeg",
+					"contentType": "image"
+				},
+				"canvasBackground": "",
+				"prompt": "Scratch to reveal the content"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ComparisonSlideDataDocument",
+			"id": "35faaaf0-7b71-abdb-127a-f5b6ee66e1c0",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "comparison",
+			"subtype": null,
+			"name": 5,
+			"displayIndex": 6,
+			"templateName": "Comparison",
+			"templateDescription": "Juxtapose two items in a slider",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Can you identify the contraband in this x-ray scan?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"before": {
+					"contentType": "image",
+					"content": "fit_content_assets/comparison.before.content-1539230611891.jpeg",
+					"label": "\n"
+				},
+				"after": {
+					"contentType": "image",
+					"content": "fit_content_assets/comparison.after.content-1539230651220.jpeg",
+					"label": "This container hold more than the threshold of  3.4 ounces for liquids or gels. Even though this is a jar of body cream, it is still prohibited\n"
+				},
+				"startPosition": "Before - Start with the first section visible",
+				"prompt": "Drag to compare the content"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.MultipleChoiceGameSlideDataDocument",
+			"id": "6b14a3a4-ad88-1bd9-52da-896b4790f1e4",
+			"metadata": {
+				"questions": [
+					{
+						"question": {
+							"category": null,
+							"content": "fit_content_assets/8c8b9717-2e26-b840-959b-569fd759d726.transcoded.mp4",
+							"id": "edd2f1b5-d615-41f9-a816-d15eb75329fe",
+							"type": "video",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "Bag #5",
+								"correct": true,
+								"id": "c57ed1a0-1ccb-422e-b1b7-a3d703591a62",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Bag #6",
+								"correct": true,
+								"id": "0e6bf35a-bea0-4b60-97fa-77ae57c07a3e",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Bag #4",
+								"correct": false,
+								"id": "984bbd47-2a18-4206-bfa7-9c6b67f223e7",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					}
+				],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "multiple-choice-game",
+			"subtype": null,
+			"name": 6,
+			"displayIndex": 7,
+			"templateName": "Multiple Choice",
+			"templateDescription": "Select the correct answer(s)",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": {
+					"nb_stars": null,
+					"weighting": 1
+				},
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": null
+				},
+				"narration": null,
+				"social_learning": {
+					"enabled": false
+				},
+				"title": "fit_content_assets/8c8b9717-2e26-b840-959b-569fd759d726.transcoded.mp4",
+				"titleType": "video",
+				"subtitle": "## Can you spot which of these luggage bags contains prohibited materials?",
+				"subtitleType": null,
+				"answer": {
+					"takeaway": "",
+					"incorrect": "Not quite...",
+					"correct": "That's correct!",
+					"text": "**Bag #5** contains a **hammer** <br>\n**Bag #6** contains a **large bottle of perfume and scissors.** <br>\n",
+					"value": null
+				},
+				"game": {
+					"timer": {
+						"limit": -1,
+						"isDisabled": null,
+						"out-of-time-prompt": ""
+					},
+					"stars": null
+				},
+				"prompt": "Select the correct answer/s",
+				"selectable": 2,
+				"randomize": true,
+				"answers": [
+					{
+						"content": "Bag #5",
+						"correct": true
+					},
+					{
+						"content": "Bag #6",
+						"correct": true
+					},
+					{
+						"content": "Bag #4",
+						"correct": false
+					}
+				]
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.VideoSlideDataDocument",
+			"id": "550a24dc-0de6-294b-af70-5e48ad34109e",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "video",
+			"subtype": null,
+			"name": 7,
+			"displayIndex": 8,
+			"templateName": "Video Slide",
+			"templateDescription": "Play a video",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": null,
+				"narration": null,
+				"title": "Video",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"prompt": "Watch the video to continue",
+				"url": "video/example.mp4",
+				"streamUrl": null,
+				"showSkipButton": true,
+				"stream": true,
+				"autoplay": false,
+				"autoprogress": false
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.YoutubeVideoEmbedSlideDataDocument",
+			"id": "7168e927-6bea-d3ad-4a8f-f5e2711a8a92",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "youtube-video-embed",
+			"subtype": null,
+			"name": 8,
+			"displayIndex": 9,
+			"templateName": "YouTube Video",
+			"templateDescription": "Display a video hosted on YouTube",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": null,
+				"narration": null,
+				"title": null,
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"videoId": "ZczmRIzr8r4",
+				"autoplay": false,
+				"startTime": 0,
+				"endTime": null
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.GameElevatorSlideDataDocument",
+			"id": "e81234db-2530-7022-6324-355f0a0ca364",
+			"metadata": {
+				"questions": [
+					{
+						"question": {
+							"category": "How would you describe..?",
+							"content": "Product X",
+							"id": "839f25a0-60f1-46c8-a2f0-e00ebbd079cf",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "This is the very first, premier product in the range",
+								"correct": true,
+								"id": "d88bca6f-8d7b-451c-9be3-039f706d4af7",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "It’s Classic",
+								"correct": true,
+								"id": "7386dc55-e212-4d78-a174-85e1d43806bd",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Cool blue packaging",
+								"correct": true,
+								"id": "1e7a187f-0755-45a8-a669-6770ee78e8ef",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": null,
+								"correct": false,
+								"id": "6b69ff08-44ee-4d90-b285-4e86390a481c",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					},
+					{
+						"question": {
+							"category": "How would you describe..?",
+							"content": "Product Y",
+							"id": "15248e7f-f856-4930-85be-c50f5d2e2a5f",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "It’s the second product",
+								"correct": true,
+								"id": "45828eb5-aa37-4894-885f-bbca076a7d1a",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "It’s our value pack",
+								"correct": true,
+								"id": "e234274e-11b3-4a9c-8116-a203fd5d9747",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "Mustard yellow packaging",
+								"correct": true,
+								"id": "845ee5e6-5f99-47b9-a79c-b9ccfc08f52e",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": null,
+								"correct": false,
+								"id": "ca78676d-f3c6-40e2-b51f-8859f9ffefbd",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					},
+					{
+						"question": {
+							"category": "How would you describe..?",
+							"content": "Product Z",
+							"id": "51adaea0-7676-4f5f-ad31-bb011e0615cd",
+							"type": "image",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "It’s ultra-slim",
+								"correct": true,
+								"id": "3409f1bc-7007-4f98-9cd9-4ab785b463c8",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "It’s mint green",
+								"correct": true,
+								"id": "f369ac52-dde0-40df-80ec-45bae4f096d0",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": "It’s new!",
+								"correct": true,
+								"id": "43d971b3-5ecd-4115-838e-380ee423eb49",
+								"type": null,
+								"text": null
+							},
+							{
+								"content": null,
+								"correct": false,
+								"id": "b10afe63-19d9-4be8-bea3-71696b0042bd",
+								"type": null,
+								"text": null
+							}
+						],
+						"slideId": null
+					}
+				],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "game-elevator",
+			"subtype": null,
+			"name": 9,
+			"displayIndex": 10,
+			"templateName": "The Elevator Game",
+			"templateDescription": null,
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": {
+					"nb_stars": 3,
+					"weighting": 1
+				},
+				"socialLearning": null,
+				"narration": null,
+				"combine": true,
+				"social_learning": {
+					"enabled": false
+				},
+				"title": "How would you describe..?",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"game": {
+					"timer": {
+						"limit": 20000,
+						"isDisabled": null,
+						"out-of-time-prompt": null
+					},
+					"stars": {
+						"max": 10000,
+						"min": 1000
+					}
+				},
+				"prompt": "Select the matching attributes",
+				"description": "Which of these facts matches the product? Tap on the fact when the product is directly over the fact for the most points.\n",
+				"combined": null,
+				"images": [
+					{
+						"title": "Product X",
+						"image": "img/examples/product-1.png",
+						"correct": [
+							"This is the very first, premier product in the range",
+							"It’s Classic",
+							"Cool blue packaging"
+						],
+						"incorrect": [],
+						"description": "This is your chance to talk about the product or image. You can list all of its qualities, so everyone is excited and familiar with it.\n"
+					},
+					{
+						"title": "Product Y",
+						"image": "img/examples/product-2.png",
+						"correct": [
+							"It’s the second product",
+							"It’s our value pack",
+							"Mustard yellow packaging"
+						],
+						"incorrect": [],
+						"description": "This is your chance to talk about the product or image. You can list all of its qualities, so everyone is excited and familiar with it.\n"
+					},
+					{
+						"title": "Product Z",
+						"image": "img/examples/product-3.png",
+						"correct": [
+							"It’s ultra-slim",
+							"It’s mint green",
+							"It’s new!"
+						],
+						"incorrect": [],
+						"description": "This is your chance to talk about the product or image. You can list all of its qualities, so everyone is excited and familiar with it.\n"
+					}
+				]
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.FreeTextSurveySlideDataDocument",
+			"id": "4c3ce9c8-267a-6695-ed52-ccb043d10516",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "free-text-survey",
+			"subtype": null,
+			"name": 10,
+			"displayIndex": 11,
+			"templateName": "Free text",
+			"templateDescription": "Free text input for user feedback",
+			"permanent": null,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": null,
+				"narration": null,
+				"prompt": "Type your response",
+				"question": {
+					"min": null,
+					"content": "List the steps you would take if you have identified a suspicious item?",
+					"contentType": null,
+					"id": "2db51251-84df-d46d-7783-4fb8faeb3a30"
+				}
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ExitSlideDataDocument",
+			"id": "b783cb55-cf02-b6cc-8c9b-fee404a6a974",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": null,
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "exit",
+			"subtype": "default",
+			"name": 11,
+			"displayIndex": 12,
+			"templateName": "Exit Lesson",
+			"templateDescription": null,
+			"permanent": true,
+			"prompt": null,
+			"data": {
+				"challenge_configuration": null,
+				"socialLearning": null,
+				"narration": null,
+				"title": "That's it!",
+				"titleType": null,
+				"subtitle": null,
+				"subtitleType": null,
+				"content": "Nice work. You've completed this lesson.",
+				"buttonText": "Exit Lesson"
+			}
+		}
+	],
+	"title": "X-Ray security overview",
+	"scorm": true,
+	"index": 0,
+	"id": "5becfb6d9af01c158efff026"
+}
